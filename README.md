@@ -6,12 +6,15 @@ I'm Helder, a software developer mainly focused on C++.
 ## My Languages & Tools
 
 Comfortable with the following:
+
 [![My Languages & Tools](https://skillicons.dev/icons?i=c,cpp,python,rust,bash,cmake,linux,vscode,docker&theme=dark)](https://skillicons.dev)
 
 Have dabled a bit, interested in learning more:
+
 [![My Languages & Tools](https://skillicons.dev/icons?i=zig,golang,haskell&theme=dark)](https://skillicons.dev)
 
 Used more extensibly in the past, but not recently:
+
 [![My Languages & Tools](https://skillicons.dev/icons?i=matlab,latex,raspberrypi&theme=dark)](https://skillicons.dev)
 
 

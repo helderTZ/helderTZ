@@ -20,7 +20,7 @@ Used more extensibly in the past, but not recently:
 
 ## Some cool stuff in the making
 - [hdlib](https://github.com/helderTZ/hdlib) - various C++ algorithms, containers and goodies
-- [seapeapea](https://github.com/helderTZ/seapeapea) - a C++ code exploration tool
+- [seapeapea](https://github.com/helderTZ/seapeapea) - a C++ code exploration tool using libclang
 - [easy_rand](https://github.com/helderTZ/easy_rand) - a Rust FFI crate that wraps rand() and srand() libc functions
 - [biggerints](https://github.com/helderTZ/biggerints) - implements `uint128_t` and `uint256_t`
 - [rorth2](https://github.com/helderTZ/rorth2) - an implementation of the Forth programming language (subset) in Rust

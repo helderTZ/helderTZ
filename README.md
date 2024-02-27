@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Helder, a software developer mainly focused on C++. 
+I'm Helder, a software developer mainly focused on C++ with some Python on the side 🐍 (and a pinch of Rust 🦀).  
 
 
 ## My Languages & Tools
@@ -24,6 +24,7 @@ Used more extensibly in the past, but not recently:
 - [easy_rand](https://github.com/helderTZ/easy_rand) - a Rust FFI crate that wraps rand() and srand() libc functions
 - [biggerints](https://github.com/helderTZ/biggerints) - implements `uint128_t` and `uint256_t`
 - [rorth2](https://github.com/helderTZ/rorth2) - an implementation of the Forth programming language (subset) in Rust
+- [Hare with while loops](https://github.com/helderTZ/hare-with-while-loop) - hacked the Hare compiler to allow while loops
 
 
 ## My Github Stats

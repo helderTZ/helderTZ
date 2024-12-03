@@ -25,6 +25,7 @@ Used more extensibly in the past, but not recently:
 - [biggerints](https://github.com/helderTZ/biggerints) - implements `uint128_t` and `uint256_t`
 - [rorth2](https://github.com/helderTZ/rorth2) - an implementation of the Forth programming language (subset) in Rust
 - [Hare with while loops](https://github.com/helderTZ/hare-with-while-loop) - hacked the Hare compiler to allow while loops
+- [funject](https://github.com/helderTZ/funject) - Function Injector, a rust utility that uses libclang to inject source code into C++ source files
 
 
 ## My Github Stats

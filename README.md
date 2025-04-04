@@ -23,6 +23,7 @@ Used more extensibly in the past, but not recently:
 - [seapeapea](https://github.com/helderTZ/seapeapea) - a C++ code exploration tool using libclang
 - [easy_rand](https://github.com/helderTZ/easy_rand) - a Rust FFI crate that wraps rand() and srand() libc functions
 - [biggerints](https://github.com/helderTZ/biggerints) - implements `uint128_t` and `uint256_t`
+- [SmartPtrs](https://github.com/helderTZ/SmartPtrs) - my own implementation of smart_ptr and unique_ptr
 - [rorth2](https://github.com/helderTZ/rorth2) - an implementation of the Forth programming language (subset) in Rust
 - [Hare with while loops](https://github.com/helderTZ/hare-with-while-loop) - hacked the Hare compiler to allow while loops
 - [funject](https://github.com/helderTZ/funject) - Function Injector, a rust utility that uses libclang to inject source code into C++ source files
